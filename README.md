@@ -1,5 +1,5 @@
 # NLP
-![NLP](Image/NLP-image.jpg)
+![NLP](Image/sentimental.jpeg)
 
 This assignment is using  natural Language Processing (NLP)  to understand the sentitment in the latest news articles around crypocurrency, specficially Bitcoing and Etherem.
 
